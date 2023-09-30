@@ -1,0 +1,43 @@
+*,
+::after,
+::before {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+}
+
+li {
+        list-style-type: none;
+}
+
+a {
+        text-decoration: none;
+        color: inherit;
+}
+
+body {
+        width: 100%;
+        background-color: black;
+        font-family: body;
+
+}
+
+.row {
+        display: flex;
+        flex-wrap: wrap;
+}
+
+@font-face {
+        font-family: menu;
+        src: url(../font/LibreBaskerville-Italic.ttf);
+}
+
+@font-face {
+        font-family: khas;
+        src: url(../font/IndieFlower-Regular.ttf);
+}
+
+@font-face {
+        font-family: body;
+        src: url(../font/OldStandardTT-Regular.ttf);
+}
