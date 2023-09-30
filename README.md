@@ -4,7 +4,7 @@
 
 ![screencapture-maryamparvaz-github-io-first-project-2023-09-30-08_44_47](https://github.com/maryamparvaz/first-project/assets/124708513/a7c7069d-7655-434a-ae92-2f42ef20eb44)
 
-- [Demo Project] (https://maryamparvaz.github.io/fashion-demo/)
+- [Demo Project]https://maryamparvaz.github.io/fashion-demo/
 
 - Developed by Maryam Parvaz 🙎
 
