@@ -2,7 +2,8 @@
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
 
-![screencapture-maryamparvaz-github-io-first-project-2023-09-30-08_44_47](https://github.com/maryamparvaz/first-project/assets/124708513/a7c7069d-7655-434a-ae92-2f42ef20eb44)
+![screencapture-maryamparvaz-github-io-fashion-demo-2023-09-30-09_31_23](https://github.com/maryamparvaz/fashion-demo/assets/124708513/1f5a6210-63cc-40c5-bfe0-a8ee0b210938)
+
 
 
 - [Demo Project](https://maryamparvaz.github.io/fashion-demo/)
